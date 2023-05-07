@@ -4,7 +4,7 @@
 
 Внешний код веб-сайта с открытым исходным кодом, добро пожаловать, чтобы помочь оптимизировать перевод
 
-* [интерфейсный код](https://github.com/xxai-art/web)
+* [Внешний код](https://github.com/xxai-art/web)
 * [Языковые пакеты для сайта в целом](https://github.com/xxai-art/web/tree/main/i18n)
 * [Языковые пакеты для модулей входа](https://github.com/wacpkg/user/tree/main/ui.i18n)
 * [Многоязычная документация веб-сайта](https://github.com/xxai-doc)
